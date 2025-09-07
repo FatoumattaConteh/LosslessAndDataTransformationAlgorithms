@@ -1,0 +1,9 @@
+{
+    "cSpell.words": [
+        "imread",
+        "imwrite",
+        "pywt",
+        "skimage",
+        "ssim"
+    ]
+}
