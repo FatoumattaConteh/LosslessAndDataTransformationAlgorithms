@@ -132,7 +132,8 @@ if __name__ == "__main__":
     
     encoded_string = save_rle_to_text(encoded_vector1, "encoded_vector1.txt")
     character_count, file_content = calculate_file_size("encoded_vector1.txt")
-    print(f"Number of characters in the saved file (excluding spaces): {character_count}")
+    #print(f"Number of characters in the saved file (excluding spaces): {character_count}")
+    print(f"Number of characters in the saved file : {character_count}")
     print("Compressed file content:")
     #print(file_content)
 
